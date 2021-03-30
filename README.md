@@ -1,3 +1,4 @@
+本思维导图，大多数材料来自Guide哥的JavaGuide，想看大部分材料源可直接点击此链接：https://gitee.com/SnailClimb/JavaGuide。
 ![Java](./image/Java.png)
 
 # Java
